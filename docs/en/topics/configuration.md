@@ -400,6 +400,3 @@ These values will just be used for specific scripts (e.g. [api:Filesystem::sync(
 to raise the limits for all executed scripts please use `ini_set('memory_limit', <value>)`
 and `ini_set('max_execution_time', <value>)` in your own `_config.php`.
 
-## See Also
-
-[Config Cheat sheet](http://www.ssbits.com/a-config-php-cheatsheet/)
